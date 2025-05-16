@@ -1,0 +1,26 @@
+{
+  "name": "@jforg/hiragino-fix.css",
+  "version": "0.1.0",
+  "description": "A tiny CSS library that normalizes the display weight of Hiragino Sans across browsers",
+  "author": "Jeffrey Francesco (https://jeffreyfrancesco.org/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jforg/hiragino-fix.css.git"
+  },
+  "homepage": "https://github.com/jforg/hiragino-fix.css#readme",
+  "bugs": {
+    "url": "https://github.com/jforg/hiragino-fix.css/issues"
+  },
+  "main": "hiragino-fix.css",
+  "style": "hiragino-fix.css",
+  "scripts": {
+    "test": "echo \"No test.\""
+  },
+  "keywords": [
+    "css",
+    "fonts",
+    "normalize",
+    "hiragino-sans"
+  ],
+  "license": "CC0-1.0"
+}
