@@ -36,7 +36,7 @@ CSS で `@import` を使用します（`layer()` はオプション）。
 @import url(@jforg/hiragino-fix.css) layer(typeface);
 ```
 
-※後者の場合、パフォーマンス上の理由から [post-css-import][psi] や [esbuild][esb] などを使ってバンドルすることをおすすめします。
+※後者の場合、パフォーマンス上の理由から [post-css-import][pci] や [esbuild][esb] などを使ってバンドルすることをおすすめします。
 
 あとは任意の要素（通常は `html` か `body` でしょう）に `font-family` プロパティを設定してください。
 
